@@ -111,3 +111,11 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.inquiry {
+  background: rgb(66, 154, 104);
+  opacity: 10;
+}
+.end-cap {
+  background-color: #f5f2fe;
+}
