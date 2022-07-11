@@ -14,9 +14,9 @@ body {
 .hero {
   background: rgb(66, 154, 104);
   text-align: center;
-  margin: 50px;
+  margin: 0;
   font-family: var(--primary-font-family);
-  padding: 160px 68px;
+  padding: 40px 68px;
 }
 
 h1 {
