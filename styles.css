@@ -2,6 +2,7 @@
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  --primary-font-family: "Comic Neue", cursive;
 }
 
 body {
@@ -14,6 +15,7 @@ h2,
 h3 {
   text-align: center;
   margin: 0;
+  font-family: var(--primary-font-family);
 }
 
 h1 {
