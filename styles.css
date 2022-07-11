@@ -17,7 +17,8 @@ body {
   margin: 0;
   font-family: var(--primary-font-family);
   padding: 100px 160px;
-  border-radius: 40px;
+  width: 1440px;
+  height: 900px;
 }
 
 h1 {
