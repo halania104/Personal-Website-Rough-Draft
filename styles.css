@@ -11,9 +11,8 @@ body {
   max-width: 800px;
 }
 
-h1,
-h2,
-h3 {
+.hero {
+  background: rgb(66, 154, 104);
   text-align: center;
   margin: 0;
   font-family: var(--primary-font-family);
