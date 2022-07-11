@@ -16,7 +16,8 @@ body {
   text-align: center;
   margin: 0;
   font-family: var(--primary-font-family);
-  padding: 160px 20px;
+  padding-top: 160px;
+  padding-bottom: 160px;
 }
 
 h1 {
