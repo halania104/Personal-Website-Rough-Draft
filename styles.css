@@ -8,11 +8,11 @@
 
 body {
   margin: 60px auto;
-  
 }
 
 .hero {
   background: rgb(66, 154, 104);
+  opacity: 3;
   text-align: center;
   margin: 0;
   font-family: var(--primary-font-family);
@@ -114,7 +114,7 @@ p {
 
 .inquiry {
   background: rgb(66, 154, 104);
-  opacity: 10;
+  opacity: 4;
 }
 .end-cap {
   background-color: #f5f2fe;
