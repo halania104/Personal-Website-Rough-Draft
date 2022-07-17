@@ -11,7 +11,7 @@ body {
 }
 
 .hero {
-  background: rgb(66, 154, 104);
+  background-color: rgb(66, 154, 104,0.38);
   text-align: center;
   margin: 0;
   font-family: var(--primary-font-family);
