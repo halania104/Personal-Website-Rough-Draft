@@ -11,7 +11,7 @@ body {
 }
 
 .hero {
-  background-color: rgb(66, 154, 104,0.38);
+  background-color: rgb(66, 154, 104, 0.38);
   text-align: center;
   margin: 0;
   font-family: var(--primary-font-family);
@@ -116,4 +116,7 @@ p {
 }
 .end-cap {
   background-color: #f5f2fe;
+}
+.contact {
+  text-align: center;
 }
