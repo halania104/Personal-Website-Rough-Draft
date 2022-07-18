@@ -146,3 +146,8 @@ button:hover {
   color: var(--primary-link);
   font-family: var(--secondary-font-family);
 }
+footer {
+  text-align: center;
+  font-family: var(--primary-font-family);
+  font-size: 10px;
+}
