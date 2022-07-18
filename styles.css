@@ -82,8 +82,8 @@ button {
   color: var(--primary-color);
   border-color: var(--primary-link-color);
   border-radius: 5px;
-  display: flex;
-  justify-content: center;
+  text-align: center;
+  font-family: var(--primary-font-family);
 }
 button:hover {
   color: var(--primary-color);
@@ -130,4 +130,8 @@ button:hover {
 }
 .end-cap {
   background-color: #f5f2fe;
+  text-align: center;
+  font-size: 15px;
+  color: var(--primary-link);
+  font-family: var(--secondary-font-family);
 }
