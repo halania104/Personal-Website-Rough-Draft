@@ -79,12 +79,13 @@ p {
 }
 button {
   background-color: var(--primary-link-color);
-  color: white);
+  color: white;
   border-color: var(--primary-link-color);
   border-radius: 5px;
   text-align: center;
   font-family: var(--primary-font-family);
 }
+
 button:hover {
   color: var(--primary-color);
 }
@@ -125,13 +126,23 @@ button:hover {
 .email-link:hover {
   text-decoration: underline;
 }
+.work-inquiry {
+  background: var(--secondary-color);
+  text-align: center;
+  font-family: var(--secondary-font-family);
+}
 .inquiry {
-  background: rgb(66, 154, 104, 0.38);
+  background: var(--secondary-color);
+}
+.workinq {
+  text-align: center;
+  font-family: var(--primary-font-family);
+  color: var(--primary-color);
 }
 .end-cap {
   background-color: #f5f2fe;
   text-align: center;
-  font-size: 15px;
+  font-size: 10px;
   color: var(--primary-link);
   font-family: var(--secondary-font-family);
 }
