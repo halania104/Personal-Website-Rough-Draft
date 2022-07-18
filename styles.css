@@ -81,9 +81,12 @@ button {
   background-color: var(--primary-link-color);
   color: var(--primary-color);
   border-color: var(--primary-link-color);
-  border-radius: 50px;
+  border-radius: 5px;
   display: flex;
   justify-content: center;
+}
+button:hover {
+  color: var(--primary-color);
 }
 .contact-link {
   background: var(--primary-color);
