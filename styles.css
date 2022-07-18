@@ -79,7 +79,7 @@ p {
 }
 button {
   background-color: var(--primary-link-color);
-  color: var(--primary-color);
+  color: white);
   border-color: var(--primary-link-color);
   border-radius: 5px;
   text-align: center;
