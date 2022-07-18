@@ -4,6 +4,7 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   --primary-font-family: "Comic Neue", cursive;
   --secondary-font-family: "Montserrat", sans-serif;
+  --primary-link-color: #f6ceb8;
 }
 
 body {
@@ -61,7 +62,7 @@ p {
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
-  background: var(--primary-color);
+  background: var(--primary-link-color);
   box-shadow: var(--box-shadow);
   color: white;
 }
