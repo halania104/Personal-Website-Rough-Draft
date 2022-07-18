@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #63ff94;
-  --secondary-color: #eff4a5;
+  --primary-color: rgb(66, 154, 104, 0.38);
+  --secondary-color: rgb(238, 244, 164, 0.88);
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   --primary-font-family: "Comic Neue", cursive;
   --secondary-font-family: "Montserrat", sans-serif;
@@ -66,6 +66,9 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.primary-link:hover {
+  color: var(--primary-link);
+}
 .secondary-link {
   border-radius: 4px;
   padding: 20px 15px;
@@ -73,6 +76,14 @@ p {
   text-transform: capitalize;
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
+}
+button {
+  background-color: var(--primary-link-color);
+  color: var(--primary-color);
+  border-color: var(--primary-link-color);
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
 }
 .contact-link {
   background: var(--primary-color);
@@ -111,7 +122,6 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-
 .inquiry {
   background: rgb(66, 154, 104, 0.38);
 }
