@@ -37,8 +37,9 @@
 body {
   margin: 60px auto;
 }
-.navbar {
+.navbar-custom {
   background-color: rgb(102, 0, 128, 0.38);
+  color: #f5f2fe;
 }
 .hero {
   background-color: rgb(66, 154, 104, 0.38);
