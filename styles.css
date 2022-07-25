@@ -5,6 +5,7 @@
   --primary-font-family: "Comic Neue", cursive;
   --secondary-font-family: "Montserrat", sans-serif;
   --primary-link-color: #f6ceb8;
+  --hero-bg-color: rgb(66, 154, 104, 0.38);
 }
 
 @media (max-width: 800px) {
@@ -178,4 +179,7 @@ footer {
   text-align: center;
   font-family: var(--primary-font-family);
   font-size: 10px;
+}
+.containertwo {
+  background-color: var(--hero-bg-color);
 }
