@@ -36,7 +36,9 @@
 body {
   margin: 60px auto;
 }
-
+.navbar {
+  background-color: rgb(102, 0, 128, 0.38);
+}
 .hero {
   background-color: rgb(66, 154, 104, 0.38);
   text-align: center;
