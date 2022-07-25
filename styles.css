@@ -184,3 +184,6 @@ footer {
 .containertwo {
   background-color: var(--hero-bg-color);
 }
+.fa-brands {
+  font-size: 64px;
+}
