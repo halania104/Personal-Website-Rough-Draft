@@ -1,5 +1,5 @@
 :root {
-  --primary-color: rgb(66, 154, 104);
+  --primary-color: rgb(76, 155, 111);
   --secondary-color: rgb(238, 244, 164, 0.88);
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   --primary-font-family: "Comic Neue", cursive;
@@ -38,7 +38,7 @@ body {
   margin: 60px auto;
 }
 .hero {
-  background-color: var(--primary-color);
+  background-color: var(--hero-bg-color);
   text-align: center;
   margin: 0;
   font-family: var(--primary-font-family);
@@ -46,8 +46,8 @@ body {
   padding: 100px 0;
 }
 .herologo {
-  width: 350px;
-  height: 350px;
+  width: 400px;
+  height: 400px;
 }
 .hero-works {
   text-align: center;
