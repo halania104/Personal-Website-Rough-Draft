@@ -52,7 +52,7 @@ body {
 .hero-works {
   text-align: center;
   font-family: var(--primary-font-family);
-  background-color: var(--primary-color);
+  background-color: var(--hero-bg-color);
   color: rgb(95, 45, 17);
 }
 
@@ -197,6 +197,6 @@ footer {
   font-family: var(--secondary-font-family);
 }
 .projects {
-  color: var(--primary-color);
+  color: rgb(95, 45, 17);
   font-family: var(--primary-font-family);
 }
