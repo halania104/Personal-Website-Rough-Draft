@@ -200,3 +200,7 @@ footer {
 .fa-brands {
   font-size: 64px;
 }
+.greet {
+  color: rgb(95, 45, 17);
+  font-family: var(--secondary-font-family);
+}
