@@ -38,8 +38,8 @@ body {
   margin: 60px auto;
 }
 .navbar-custom {
-  background-color: rgb(102, 0, 128, 0.38);
-  color: #f5f2fe;
+  color: rgb(95, 45, 17);
+  font-family: var(--primary-font-family);
 }
 .spacegiver {
   background-color: rgb(102, 0, 128, 0.38);
