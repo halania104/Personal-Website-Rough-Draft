@@ -37,7 +37,7 @@
 body {
   margin: 60px auto;
 }
-.navbar-custom {
+.nav.navbar-nav.navbar-right li a {
   color: rgb(95, 45, 17);
   font-family: var(--primary-font-family);
 }
