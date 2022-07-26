@@ -107,6 +107,7 @@ p {
   background: var(--primary-link-color);
   box-shadow: var(--box-shadow);
   color: white;
+  display: inline-block;
 }
 .primary-link:hover {
   color: var(--primary-link);
