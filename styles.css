@@ -49,9 +49,8 @@ body {
   text-align: center;
   margin: 0;
   font-family: var(--primary-font-family);
-  padding: 100px 160px;
   width: 100%;
-  height: 350px;
+  height: 375px;
 }
 .herologo {
   width: 350px;
