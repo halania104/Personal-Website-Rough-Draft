@@ -1,6 +1,7 @@
 :root {
   --primary-color: rgb(76, 155, 111);
   --secondary-color: rgb(238, 244, 164, 0.88);
+  --alt-secondary-color: rgb(95, 45, 17);
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   --primary-font-family: "Comic Neue", cursive;
   --secondary-font-family: "Montserrat", sans-serif;
@@ -71,7 +72,7 @@ h2 {
 h3 {
   font-size: 24px;
   opacity: 0.7;
-  color: var(--secondary-color);
+  color: var(--alt-econdary-color);
   font-family: var(--secondary-font-family);
 }
 
