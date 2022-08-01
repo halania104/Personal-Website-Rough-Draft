@@ -205,3 +205,6 @@ footer {
   color: var(--alt-secondary-color);
   font-family: var(--secondary-font-family);
 }
+.contactque-pic {
+  text-align: center;
+}
