@@ -202,6 +202,6 @@ footer {
   font-family: var(--primary-font-family);
 }
 .email-contact {
-  color: var(--alt-econdary-color);
+  color: var(--alt-secondary-color);
   font-family: var(--secondary-font-family);
 }
